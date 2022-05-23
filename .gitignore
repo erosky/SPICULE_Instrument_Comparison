@@ -1,0 +1,5 @@
+# exclude hist.mat files becasue they are large
+*_hist.mat
+
+# exclude netCDF files due to their large size
+*.nc
