@@ -25,11 +25,11 @@ time = zeros(size(t));
 for cnt = 1:length(t)
    tmp = t(cnt).name;
    %tmp = tmp(13:end);
-   yr = str2double(tmp(end-34:end-31));
-   mt = str2double(tmp(end-29:end-28));
-   dy = str2double(tmp(end-26:end-25));
-   hr = str2double(tmp(end-23:end-22));
-   mn = str2double(tmp(end-20:end-19));
+   yr = str2double(tmp(end-34:end-31))
+   mt = str2double(tmp(end-29:end-28))
+   dy = str2double(tmp(end-26:end-25))
+   hr = str2double(tmp(end-23:end-22))
+   mn = str2double(tmp(end-20:end-19))
    sc = str2double(tmp(end-17:end-16)) + 1e-6*str2double(tmp(end-14:end-9));
    time(cnt) = datenum(yr,mt,dy,hr,mn,sc);
 end
