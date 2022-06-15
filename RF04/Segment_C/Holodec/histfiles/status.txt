@@ -1,0 +1,5 @@
+2022/06/15 03:08:21.8831 on rosky-Lenovo-Y520-15IKBN :	Prepared Sequence 1 from config file /home/simulations/SPICULE/SPICULE_Instrument_Comparison/RF04/Segment_C/Holodec/histfiles/holoviewer.cfg in 0.58 s. 0.12 s config load time, 0.39 s misc time, and 0.07 s parpool start time.
+
+2022/06/15 03:08:21.9422 on rosky-Lenovo-Y520-15IKBN :	ReconHoloHist ver. 2017-01-20 part of HoloSuite (c) 2017 Jacob Fugal et al.
+2022/06/15 03:08:21.9462 on rosky-Lenovo-Y520-15IKBN :	Reconstructing 2021-06-05-19-45-06-505292.png.
+
